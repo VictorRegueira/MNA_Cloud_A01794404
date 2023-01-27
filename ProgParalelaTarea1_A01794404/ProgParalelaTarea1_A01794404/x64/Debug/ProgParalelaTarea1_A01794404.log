@@ -1,4 +1,4 @@
 ﻿  ProgParalelaTarea1_A01794404.cpp
-C:\Users\VictorRegueira\source\repos\ProgParalelaTarea1_A01794404\ProgParalelaTarea1_A01794404\ProgParalelaTarea1_A01794404.cpp(26,18): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
-C:\Users\VictorRegueira\source\repos\ProgParalelaTarea1_A01794404\ProgParalelaTarea1_A01794404\ProgParalelaTarea1_A01794404.cpp(27,24): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\VictorRegueira\source\repos\ProgParalelaTarea1_A01794404\ProgParalelaTarea1_A01794404\ProgParalelaTarea1_A01794404.cpp(35,25): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\VictorRegueira\source\repos\ProgParalelaTarea1_A01794404\ProgParalelaTarea1_A01794404\ProgParalelaTarea1_A01794404.cpp(36,24): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
   ProgParalelaTarea1_A01794404.vcxproj -> C:\Users\VictorRegueira\source\repos\ProgParalelaTarea1_A01794404\x64\Debug\ProgParalelaTarea1_A01794404.exe
